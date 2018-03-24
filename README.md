@@ -27,7 +27,7 @@
 * [Angular dynamic forms](https://angular.io/docs/ts/latest/cookbook/dynamic-form.html) for reusability and to keep html code DRY.
 * [Swagger](http://swagger.io/) as Api explorer (Visit url **http://127.0.0.1:5000/swagger** after running the application). More [details](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
  
-## NOTE: (This is the new Angular cli based branch where ClientApp is completely managed by Angular cli. If you are interested in previous cli branch where integration of Angular cli was minimal (only for code generation), then switch to [angular-non-cli](https://github.com/asadsahi/AspNetCoreSpa/tree/angular-non-cli) branch)
+## NOTE1: (This is the new Angular cli based branch where ClientApp is completely managed by Angular cli. If you are interested in previous cli branch where integration of Angular cli was minimal (only for code generation), then switch to [angular-non-cli](https://github.com/asadsahi/AspNetCoreSpa/tree/angular-non-cli) branch)
 
 ## Pre-requisites
 
